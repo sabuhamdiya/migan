@@ -49,7 +49,8 @@ ax.axis('off')
 # Save the figure as a PNG image
 plt.savefig('regression_summary.png', dpi=300, bbox_inches='tight')
 
-
+# Print a success message
+print("Regression summary saved as regression_summary.png")
 
 
 
