@@ -47,5 +47,5 @@ def plot_regression(variable_name):
     plt.show()
 
 # Call the function with the desired variable name
-plot_regression('Human Development Index')
+plot_regression('Temperature Anomaly')
 
