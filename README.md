@@ -80,7 +80,7 @@ Figures below provide a visual explanation to the results above
 
 ### Temperature anomaly linear regression model
 
-![Scatter Plot](scatter_plot_Temperature anomaly.png)
+![Scatter Plot](scatter_plot_Temperature_anomaly.png)
 
 ### Corruption index linear regression model 
 
