@@ -79,9 +79,11 @@ Figures below provide a visual explanation to the results above
 ![Scatter Plot](scatter_plot_corruption_index.png)
 
 #Temperature anomaly linear regression model
+
 ![Scatter Plot](scatter_plot_Temperature anomaly.png)
 
 #Human development index linear regression model
+
 ![Scatter Plot](scatter_plot_Human Development Index.png)
 
 
