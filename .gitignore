@@ -3,3 +3,7 @@ mapheat2.gpkg
 *.gpkg
 geoBoundariesCGAZ_ADM0.zip
 merged_gdf.csv
+shapefiles/geoBoundariesCGAZ_ADM0.dbf
+shapefiles/geoBoundariesCGAZ_ADM0.prj
+shapefiles/geoBoundariesCGAZ_ADM0.shp
+shapefiles/geoBoundariesCGAZ_ADM0.shx
