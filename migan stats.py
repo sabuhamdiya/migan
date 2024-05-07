@@ -2,6 +2,8 @@
 
 import pandas as pd
 import statsmodels.api as sm
+import matplotlib.pyplot as plt
+
 
 # Read the CSV file into a Pandas DataFrame
 stats = pd.read_csv('stats.csv')
@@ -33,6 +35,22 @@ with open('regression_results.csv', 'w') as f:
 # Save the regression results summary to a text file
 with open('regression_results.txt', 'w') as f:
     f.write(model.summary().as_text())
+
+# Create a figure and axis
+fig, ax = plt.subplots(figsize=(9, 5))
+
+# Display the regression summary table
+summary_text = model.summary().as_text()
+ax.text(0.001, 0.5, summary_text, fontsize=10, family='monospace', va='center')
+
+# Hide axes
+ax.axis('off')
+
+# Save the figure as a PNG image
+plt.savefig('regression_summary.png', dpi=300, bbox_inches='tight')
+
+
+
 
 
 

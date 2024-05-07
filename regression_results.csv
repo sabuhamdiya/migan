@@ -3,7 +3,7 @@ Dep. Variable:   ,Emigrants       ,  R-squared:         ,   0.064
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.045
 Method:          ,Least Squares   ,  F-statistic:       ,   3.493
 Date:            ,Mon, 06 May 2024,  Prob (F-statistic):,0.0172  
-Time:            ,22:31:29        ,  Log-Likelihood:    , -357.25
+Time:            ,23:02:11        ,  Log-Likelihood:    , -357.25
 No. Observations:,   158          ,  AIC:               ,   722.5
 Df Residuals:    ,   154          ,  BIC:               ,   734.8
 Df Model:        ,     3          ,                     ,        

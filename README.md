@@ -40,34 +40,13 @@ The regression results provide valuable insights into the relationship
  between the dependent variable (Emigrants) and the independent variables
   (Corruption Index, Temperature Anomaly, and Human Development Index).
   
-                            OLS Regression Results                            
-==============================================================================
-Dep. Variable:              Emigrants   R-squared:                       0.064
-Model:                            OLS   Adj. R-squared:                  0.045
-Method:                 Least Squares   F-statistic:                     3.493
-Date:                Mon, 06 May 2024   Prob (F-statistic):             0.0172
-Time:                        22:31:30   Log-Likelihood:                -357.25
-No. Observations:                 158   AIC:                             722.5
-Df Residuals:                     154   BIC:                             734.8
-Df Model:                           3                                         
-Covariance Type:            nonrobust                                         
-===========================================================================================
-                              coef    std err          t      P>|t|      [0.025      0.975]
--------------------------------------------------------------------------------------------
-const                      -2.3303      1.483     -1.571      0.118      -5.260       0.599
-Temperature anomaly         0.2610      0.455      0.574      0.567      -0.638       1.160
-Corruption Index            2.6272      0.830      3.165      0.002       0.988       4.267
-Human Development Index     3.3928      1.690      2.007      0.046       0.054       6.732
-==============================================================================
-Omnibus:                      151.815   Durbin-Watson:                   1.842
-Prob(Omnibus):                  0.000   Jarque-Bera (JB):             2402.140
-Skew:                           3.585   Prob(JB):                         0.00
-Kurtosis:                      20.706   Cond. No.                         18.1
-==============================================================================
-Notes:
-[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
 
 ###Analysis
+
+![Scatter Plot](regression_summary.png)
+
+
 R-squared value of 0.064 indicates that approximately
 6.4% of the variance in emigrants can be explained by the independent variables included in the model.
 
@@ -95,14 +74,14 @@ suggesting that there may be other factors not accounted for in the model that i
 
 Figures below provide a visual explanation to the results above
 
-Corruption index linear regression model 
+#Corruption index linear regression model 
 
 ![Scatter Plot](scatter_plot_corruption_index.png)
 
-Temperature anomaly linear regression model
+#Temperature anomaly linear regression model
 ![Scatter Plot](scatter_plot_Temperature anomaly.png)
 
-Human development index linear regression model
+#Human development index linear regression model
 ![Scatter Plot](scatter_plot_Human Development Index.png)
 
 
