@@ -86,7 +86,7 @@ Figures below provide a visual explanation to the results above
 
 ### Human development index linear regression model
 
-![Scatter Plot](scatter_plot_Human Development Index.png)
+![Scatter Plot](C:/Users/salad/OneDrive/Documents/Masters/Spring 2014/PAI 789 Advanced Policy Analysis/GitHub/migan/scatter_plot_Human Development Index.png)
 
 
 
