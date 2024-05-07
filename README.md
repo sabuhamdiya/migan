@@ -1,7 +1,7 @@
-# Read Me
+## Read Me
 
 # Project MIGAN (Migration Information Geospatial Analysis Network)
-Overview:
+
 Project MIGAN aims to analyze the relationship between migration
 and various independent variables such as temperature anomalies,
 political corruption, and human development for the year 2020.
@@ -25,11 +25,14 @@ Dataframes are merged based on country entities.
 Linear regression analysis is performed to analyze the relationship between independent variables and emigrants.
 Results are saved as CSV files and shapefiles.
 
-#Mapping
+# Mapping
 
 Data was collected and included in an interactive tableau map. 
 
+###Link
 [Tableau Public](https://public.tableau.com/views/MIGAN/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+
+There are three maps each shows the impact of one of the selected variables and migrants.
 
 
 # Results
@@ -82,7 +85,6 @@ Figures below provide a visual explanation to the results above
 ### Corruption index linear regression model 
 
 ![Scatter Plot](scatter_plot_corruption_index.png)
-
 
 ### Human development index linear regression model
 
