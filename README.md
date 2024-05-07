@@ -74,13 +74,15 @@ suggesting that there may be other factors not accounted for in the model that i
 
 Figures below provide a visual explanation to the results above
 
-### Corruption index linear regression model 
-
-![Scatter Plot](scatter_plot_corruption_index.png)
 
 ### Temperature anomaly linear regression model
 
 ![Scatter Plot](scatter_plot_Temperature anomaly.png)
+
+### Corruption index linear regression model 
+
+![Scatter Plot](scatter_plot_corruption_index.png)
+
 
 ### Human development index linear regression model
 
