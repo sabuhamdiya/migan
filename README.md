@@ -84,7 +84,7 @@ Figures below provide a visual explanation to the results above
 
 ### Corruption index linear regression model 
 
-![Scatter Plot](scatter_plot_corruption_index.png)
+![Scatter Plot](scatter_plot_Corruption Index.png)
 
 ### Human development index linear regression model
 
