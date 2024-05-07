@@ -16,7 +16,7 @@ stats= stats.drop(columns=['geometry', 'Unnamed: 0'])
 stats['Year'] = 2020
 
 # Set of variables
-stats = stats[['Entity','Year', 'Emigrants', 'Temperature Anomaly','Corruption Index','Human Development Index']]
+stats = stats[['Emigrants', 'Temperature Anomaly','Corruption Index','Human Development Index']]
 
 stats['Temperature Anomaly'] = stats['Temperature Anomaly'].astype(float)
 
