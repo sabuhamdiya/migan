@@ -78,8 +78,6 @@ Figures below provide a visual explanation to the results above
 
 ![Scatter Plot](scatter_plot_corruption_index.png)
 
-The one below shows the relation between temperature increase and migration
-
 # Temperature anomaly linear regression model
 
 ![Scatter Plot](scatter_plot_temperature_anomaly.png)
