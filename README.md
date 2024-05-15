@@ -7,6 +7,14 @@ and various independent variables such as temperature anomalies,
 political corruption, and human development for the year 2020.
 Information were collected from https://ourworldindata.org/
 
+# Goal
+
+The project aims to provide policymakers with actionable insights to address migration challenges effectively.
+We seek to inform evidence-based policies at local and international levels by 
+analyzing the relationship between migration patterns and socio-economic and environmental factors.
+Through data-driven analysis, we aim to identify key drivers of migration and 
+empower policymakers to develop targeted interventions for sustainable development and social cohesion.
+
 # Description of Files:
 Migan_Analysis.py: Python script containing the main analysis code.
 world-bounds-a.zip: Zip file containing shapefile for global boundaries.
@@ -30,6 +38,9 @@ Results are saved as CSV files and shapefiles.
 Data was collected and included in an interactive tableau map. 
 
 ## Link
+
+Below is a map represenation of the project. 
+
 [Tableau Public](https://public.tableau.com/views/MIGAN/ProjectMIGAN?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 There are three maps each shows the impact of one of the selected variables and migrants.
