@@ -29,8 +29,8 @@ Results are saved as CSV files and shapefiles.
 
 Data was collected and included in an interactive tableau map. 
 
-###Link
-[Tableau Public](https://public.tableau.com/views/MIGAN/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+### Link
+[Tableau Public](https://public.tableau.com/views/MIGAN/ProjectMIGAN?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 There are three maps each shows the impact of one of the selected variables and migrants.
 
