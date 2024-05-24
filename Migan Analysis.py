@@ -150,6 +150,3 @@ if not os.path.exists(directory):
 
 # Save the GeoDataFrame to a shapefile in the directory
 merged_gdf.to_file(os.path.join(directory, 'migan_clean.shp'))
-
-
-
